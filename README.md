@@ -1,4 +1,4 @@
-![image](assets/backdrop.jpg)
+![image](assets/backdrop2.jpg)
 
 
 ### 📈 **GitHub Stats**
