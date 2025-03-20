@@ -3,7 +3,7 @@
 
 ### 📈 **GitHub Stats**
 <div align="center">
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/KaushiML3">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&count_private=true&hide=issues"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight"/>
   </a>
@@ -11,7 +11,7 @@
 
 ### 📊 **GitHub Activity Graph**
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KaushiML3&theme=tokyo-night&hide_border=true" />
 </p>
 
 # FRAMEWORKS AND TOOLS
