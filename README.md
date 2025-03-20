@@ -9,6 +9,11 @@
   </a>
 </div>
 
+### 📊 **GitHub Activity Graph**
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true" />
+</p>
+
 # FRAMEWORKS AND TOOLS
 * * *
 ![image](assets/tools2.jpg)
